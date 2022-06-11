@@ -1,0 +1,11 @@
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\bin\Debug\IM9.exe.config
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\bin\Debug\IM9.exe
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\bin\Debug\IM9.pdb
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\obj\Debug\IM9.csproj.AssemblyReference.cache
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\obj\Debug\IM9.csproj.SuggestedBindingRedirects.cache
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\obj\Debug\IM9.Form1.resources
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\obj\Debug\IM9.Properties.Resources.resources
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\obj\Debug\IM9.csproj.GenerateResource.cache
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\obj\Debug\IM9.csproj.CoreCompileInputs.cache
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\obj\Debug\IM9.exe
+C:\Users\xisao\Downloads\IM9-master\IM9-master\IM9\obj\Debug\IM9.pdb
